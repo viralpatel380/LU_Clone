@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="52px" viewBox="0 0 71 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>sss copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="74.8166795%" x2="90.0211385%" y2="17.972792%" id="linearGradient-1">
+            <stop stop-color="#46FFFF" offset="0%"></stop>
+            <stop stop-color="#236EFF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="862.822553 1766.19487 846.388908 1731.35347 790.822553 1731.19825 794.448044 1781.92293"></polygon>
+    </defs>
+    <g id="Templates---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Alt-1-Copy-9" transform="translate(-792.000000, -1735.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="sss-copy-3" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(826.822553, 1756.560590) scale(-1, -1) rotate(-353.000000) translate(-826.822553, -1756.560590) " xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>

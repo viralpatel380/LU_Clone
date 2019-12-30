@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="51px" viewBox="0 0 79 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.78503323%" y1="91.8799263%" x2="97.0317569%" y2="14.2623322%" id="linearGradient-1">
+            <stop stop-color="#FFD348" offset="0%"></stop>
+            <stop stop-color="#FF5E88" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="826.48252 2606.65889 840.329554 2558.16724 795.536427 2569.49681 768.329554 2617.21232"></polygon>
+    </defs>
+    <g id="Templates---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Alt-1-Copy-9" transform="translate(-765.000000, -2562.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(804.329554, 2587.689778) scale(-1, -1) rotate(-353.000000) translate(-804.329554, -2587.689778) " xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
